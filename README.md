@@ -1,2 +1,2 @@
 # Genusfinder
-Ein  C# Algorithmus, der von dem Nutzer angegebenen Substantiven ein Genus automatisch zuordnen kann.
+Ein  C# Algorithmus, der von dem Nutzer angegebenen Substantiven ein Genus automatisch zuordnen kann. Aktuelle Version: 1.0.
